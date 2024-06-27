@@ -1,6 +1,7 @@
 # belly-button-challenge
 In this challenge, built an interactive dashboard to explore the Belly Button Biodiversity dataset, which catalogues the microbes that colonise human navels.
 The dataset reveals that a small handful of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare.
+The github page can be found through the link https://jean-liang.github.io/belly-button-challenge/
 
 app.js file read data in the samples.json displays two graphs:
 - Bar graph for "Top 10 Bacteria Cultures Found", top 10 OTUs found in that individual.
